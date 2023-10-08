@@ -1,9 +1,9 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
+  "Author": "Kei Joi",
+  "Name": "FFXIV Gamba Helper",
+  "Punchline": "Gamba tools for FFXIV",
+  "Description": "Gamba Tools for FFXIV",
+  "InternalName": "FFXIVGamba",
   "ApplicableVersion": "any",
   "Tags": [
     "sample",
